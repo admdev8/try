@@ -1,0 +1,11 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "tarantool/tarantool",
+				"tag": "1.8",
+				"digest": "305c0035f14bd24b5a380a9e77600c1ef2a23e8fc21196b9403d8777ed1f8013"
+			}
+		]
+	}
+}
